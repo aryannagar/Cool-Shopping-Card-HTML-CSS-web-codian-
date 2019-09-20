@@ -1,0 +1,12 @@
+WEB CODIAN
+
+In this repository, you will be going to find the contents related how you can create a shopping or 
+description card using HTML and CSS. 
+
+This code is free to use for anyone and anywhere
+
+For Video Tutorial of this repository: https://www.youtube.com/watch?v=0zE5cUEOTWg
+
+For moreinteresting and related contents Subscribe our YouTube Channel:
+
+WEB CODIAN: https://www.youtube.com/channel/UCvDfMTJRY5y-O35vQCVGWKw
